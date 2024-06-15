@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **RAG & LLM Projects along with AI in FinTech**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins**
+- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Backend Engineering**
 
 - 🤔 Currently having research interests in **AIMO**
 
